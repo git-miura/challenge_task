@@ -1,6 +1,6 @@
-require "./class"
-require "./brave"
-require "./monster"
+require "./3_class"
+require "./3_brave"
+require "./3_monster"
 
 brave = Brave.new(name: "ゆうしゃ", hp: 250, offense: 200, defense: 130)
 monster = Monster.new(name: "モンスター", hp: 300, offense: 180, defense: 100)

@@ -1,5 +1,3 @@
-require "pry"
-
 class Brave < Character
   attr_reader :monster_damage
 
